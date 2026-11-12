@@ -1,4 +1,3 @@
-[AI_ENGINEERING_PORTFOLIO_README.md](https://github.com/user-attachments/files/34729439/AI_ENGINEERING_PORTFOLIO_README.md)
 # AI Engineering Portfolio
 
 A curated portfolio of my projects in **Machine Learning, data science, and AI engineering**.
