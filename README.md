@@ -4,7 +4,7 @@ Index of my machine learning and AI engineering projects, with the problem, the 
 
 I am **Cauê Buzolin**, a second-semester Analysis and Systems Development student at Fatec Taquaritinga (Brazil), building practical ML projects with a focus on honest evaluation and clean engineering around the model.
 
-[GitHub](https://github.com/caueeeb) · [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-buzolin-76a4283b3/) · [Hugging Face](https://huggingface.co/caueeb)
+[GitHub](https://github.com/caueeeb) · [LinkedIn](https://www.linkedin.com/in/caue-buzolin/) · [Hugging Face](https://huggingface.co/caueeb)
 
 > **Resumo (PT-BR):** portfólio de projetos de Machine Learning e AI Engineering. O projeto principal prevê atrasos de entrega no e-commerce (Olist) com avaliação cronológica, API FastAPI, testes, Docker e CI, além de um estudo sobre mudança de distribuição ao longo do tempo. Os resultados são sempre apresentados com a linha de base e as limitações.
 
